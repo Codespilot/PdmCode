@@ -182,3 +182,4 @@ src/UpgradeLog.*
 !lib/**/*.*
 **/.vs/*
 src/Rebracer.xml
+/PdmCode.sln.GhostDoc.xml
