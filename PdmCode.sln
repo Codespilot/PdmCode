@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26206.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdmCode.Infrastructure", "PdmCode.Infrastructure\PdmCode.Infrastructure.csproj", "{F1C1DD54-4755-4B78-A506-C14C6F70994C}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdmCode.Java", "PdmCode.Java\PdmCode.Java.csproj", "{54D3BCE8-83F2-40F1-A024-5F1641F6D3C6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdmCode.Resources", "PdmCode.Resources\PdmCode.Resources.csproj", "{64C20EF8-921B-42E3-B6D4-D78ED76B4E71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdmCode.WpfApp", "PdmCode.WpfApp\PdmCode.WpfApp.csproj", "{22ED94E8-7C53-4429-B8D0-F7DABE0D1B64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{64C20EF8-921B-42E3-B6D4-D78ED76B4E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64C20EF8-921B-42E3-B6D4-D78ED76B4E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64C20EF8-921B-42E3-B6D4-D78ED76B4E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22ED94E8-7C53-4429-B8D0-F7DABE0D1B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22ED94E8-7C53-4429-B8D0-F7DABE0D1B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22ED94E8-7C53-4429-B8D0-F7DABE0D1B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22ED94E8-7C53-4429-B8D0-F7DABE0D1B64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
